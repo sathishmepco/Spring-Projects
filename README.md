@@ -1,7 +1,7 @@
 # Spring-Projects
 Spring example Projects
 
-## File Upload Service [[Project]](Spring-Projects/FileUploadService)
+## File Upload Service [[Project]](Spring-Projects/tree/main/FileUploadService)
 ```
 This project shows how to upload image and display the same in jsp file
 - upload to spring resource path
